@@ -1,5 +1,4 @@
 # 📚Ebook-Frontend
-![Ebook]()
 
 ## 📒 Descrição
 Esse projeto foi realizado com o inteuito de tornar o aprendizado de front end mais dinâmico e interativo.
